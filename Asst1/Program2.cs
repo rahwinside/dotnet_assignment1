@@ -26,7 +26,7 @@ namespace Asst1
 {
     public class Program2
     {
-        static void Main(string[] args)
+        static void X(string[] args)
         {
             var N = int.Parse(Console.ReadLine());
             var i = 0;
