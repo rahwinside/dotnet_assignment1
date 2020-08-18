@@ -28,7 +28,7 @@ namespace Asst1
 {
     public class Program4
     {
-        static void Main(string[] args)
+        static void X(string[] args)
         {
             var n = int.Parse(Console.ReadLine());
             switch (n) {
