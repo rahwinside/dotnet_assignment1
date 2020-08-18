@@ -25,7 +25,7 @@ namespace Asst1
 {
     public class Program3
     {
-        static void Main(string[] args)
+        static void X(string[] args)
         {
             var salary = float.Parse(Console.ReadLine());
             var netSalary = 0.0;
